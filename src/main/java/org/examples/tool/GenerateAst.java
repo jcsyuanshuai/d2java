@@ -1,4 +1,4 @@
-package org.example.tool;
+package org.examples.tool;
 
 import java.io.IOException;
 import java.io.PrintWriter;

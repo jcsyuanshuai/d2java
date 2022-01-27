@@ -1,4 +1,4 @@
-package org.example.lox;
+package org.examples.lox;
 
 public class RuntimeError extends RuntimeException {
     final Token token;

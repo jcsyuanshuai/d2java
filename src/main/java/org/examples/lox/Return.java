@@ -1,4 +1,4 @@
-package org.example.lox;
+package org.examples.lox;
 
 public class Return extends RuntimeException {
     final Object value;

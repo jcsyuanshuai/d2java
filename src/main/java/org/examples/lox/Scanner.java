@@ -1,11 +1,11 @@
-package org.example.lox;
+package org.examples.lox;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static org.example.lox.TokenType.*;
+import static org.examples.lox.TokenType.*;
 
 /**
  * 词法分析类

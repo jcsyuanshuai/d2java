@@ -1,4 +1,4 @@
-package org.example.lox;
+package org.examples.lox;
 
 import java.util.List;
 // 访问者（visitor）模式： 行为类设计模式
